@@ -65,6 +65,7 @@ Wine-Quality-Prediction/
 
 │
 ├── notebook/
+
 │ └── wine_quality_prediction.ipynb
 
 │
