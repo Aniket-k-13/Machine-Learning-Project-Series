@@ -51,7 +51,7 @@ This project demonstrates an end-to-end ML pipeline including data preprocessing
 - Output: Wine Quality Prediction  
 - Evaluation Metric: Accuracy Score  
 
----
+
 
 ## 📁 Project Structure
 
@@ -67,7 +67,6 @@ Wine-Quality-Prediction/
 ├── README.md
 
 
----
 
 ## 📌 Key Learnings
 
