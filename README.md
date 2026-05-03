@@ -55,14 +55,18 @@ This project demonstrates an end-to-end ML pipeline including data preprocessing
 
 ## 📁 Project Structure
 
-
 Wine-Quality-Prediction/
+
 │
 ├── data/
+
+
 │ ├── winequality.csv
+
 │
 ├── notebook/
 │ └── wine_quality_prediction.ipynb
+
 │
 ├── README.md
 
