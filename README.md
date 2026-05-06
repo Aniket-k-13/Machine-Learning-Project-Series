@@ -64,9 +64,9 @@ Wine-Quality-Prediction/
 │ ├── winequality.csv
 
 │
-├      ── notebook/
+├         ── notebook/
 
-│      └── wine_quality_prediction.ipynb
+│         └── wine_quality_prediction.ipynb
 
 │
 ├── README.md
