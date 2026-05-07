@@ -2,6 +2,7 @@
 
 This project focuses on predicting whether a loan application will be **approved or rejected** using Machine Learning techniques.
 
+
 ---
 
 ## 🚀 Overview
