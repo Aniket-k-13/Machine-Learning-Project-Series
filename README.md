@@ -81,15 +81,18 @@ https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho
 ## 📁 Project Structure
 
 
-Car-Price-Prediction/
+Car-Price-Prediction/ 
+
 │
-├── data/
-│ ├── car_data.csv
+├──      data/
+
+│        ├── car_data.csv
 │
-├── notebook/
-│ └── car_price_prediction.ipynb
+├──     notebook/
+
+│       └── car_price_prediction.ipynb
 │
-├── README.md
+├──         README.md
 
 
 ---
