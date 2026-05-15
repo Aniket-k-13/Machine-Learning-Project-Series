@@ -112,5 +112,3 @@ Planned future projects may include:
 ---
 
 ⭐ If you like this repository, consider giving it a star!
-
-```
