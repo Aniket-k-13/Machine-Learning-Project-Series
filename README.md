@@ -1,4 +1,5 @@
-----
+
+````markdown id="y7m2pk"
 # 🚀 Machine Learning Project Series
 
 Welcome to my Machine Learning project repository — a continuously growing collection of projects built while learning and exploring Machine Learning, Data Science, NLP, Deep Learning, and AI systems.
@@ -58,6 +59,7 @@ The goal of this repository is to:
 
 # 📂 Repository Structure
 
+``` id="jlwm5r"
 Machine-Learning-Project-Series/
 │
 ├── Week-1-Rock-vs-Mine/
