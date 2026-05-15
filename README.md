@@ -1,3 +1,4 @@
+````markdown id="y7m2pk"
 # 🚀 Machine Learning Project Series
 
 Welcome to my Machine Learning project repository — a continuously growing collection of projects built while learning and exploring Machine Learning, Data Science, NLP, Deep Learning, and AI systems.
@@ -57,7 +58,7 @@ The goal of this repository is to:
 
 # 📂 Repository Structure
 
-
+``` id="jlwm5r"
 Machine-Learning-Project-Series/
 │
 ├── Week-1-Rock-vs-Mine/
@@ -71,34 +72,46 @@ Machine-Learning-Project-Series/
 ├── Week-9-Car-Price-Prediction/
 │
 └── More projects coming soon...
+````
 
-📈 Learning Goals
+---
+
+# 📈 Learning Goals
 
 This repository focuses on:
 
-Learning by building
-Understanding ML algorithms practically
-Working with real-world datasets
-Improving implementation skills
-Exploring advanced AI/ML concepts gradually
+* Learning by building
+* Understanding ML algorithms practically
+* Working with real-world datasets
+* Improving implementation skills
+* Exploring advanced AI/ML concepts gradually
 
+---
 
-🚀 Future Additions
+# 🚀 Future Additions
 
 Planned future projects may include:
 
-Random Forest & XGBoost
-Neural Networks
-CNNs
-Computer Vision
-Transformers & Advanced NLP
-Recommendation Systems
-Deployment with Streamlit/FastAPI
-MLOps & Model Optimization
+* Random Forest & XGBoost
+* Neural Networks
+* CNNs
+* Computer Vision
+* Transformers & Advanced NLP
+* Recommendation Systems
+* Deployment with Streamlit/FastAPI
+* MLOps & Model Optimization
 
-🤝 Connect With Me
-👨‍💻 Aniket Khandare
-GitHub: https://github.com/Aniket-k-13
-LinkedIn: https://linkedin.com/in/aniket-khandare-18b822329/
+---
+
+# 🤝 Connect With Me
+
+## 👨‍💻 Aniket Khandare
+
+* GitHub: [https://github.com/Aniket-k-13](https://github.com/Aniket-k-13)
+* LinkedIn: [https://linkedin.com/in/aniket-khandare-18b822329/](https://linkedin.com/in/aniket-khandare-18b822329/)
+
+---
 
 ⭐ If you like this repository, consider giving it a star!
+
+```
