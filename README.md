@@ -57,7 +57,7 @@ The goal of this repository is to:
 
 # 📂 Repository Structure
 
-``` id="jlwm5r"
+
 Machine-Learning-Project-Series/
 │
 ├── Week-1-Rock-vs-Mine/
