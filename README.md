@@ -54,7 +54,6 @@ The goal of this repository is to:
 - Model Evaluation
 - Gradient Descent
 - Machine Learning Pipelines
-
 ---
 
 # 📂 Repository Structure
