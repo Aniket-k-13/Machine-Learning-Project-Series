@@ -28,6 +28,7 @@ The goal of this repository is to:
 | 7 | Loan Status Prediction | Classification, SVM |
 | 8 | Wine Quality Prediction | EDA, Classification |
 | 9 | Car Price Prediction | Regression, Feature Engineering |
+|10 | Gold price  Prediction | Random Forest Regression |
 
 > 🚀 More projects will be added continuously as part of my learning journey.
 
@@ -70,7 +71,7 @@ Machine-Learning-Project-Series/
 ├── Week-7-Loan-Status-Prediction/
 ├── Week-8-Wine-Quality-Prediction/
 ├── Week-9-Car-Price-Prediction/
-│
+├── week-10-Gold-Price-prediction
 └── More projects coming soon...
 ````
 
