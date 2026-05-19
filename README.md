@@ -2,9 +2,11 @@
 ````markdown id="y7m2pk"
 # 🚀 Machine Learning Project Series
 
-Welcome to my Machine Learning project repository — a continuously growing collection of projects built while learning and exploring Machine Learning, Data Science, NLP, Deep Learning, and AI systems.
+Welcome to my Machine Learning project repository — a continuously growing collection of projects built
+while learning and exploring Machine Learning, Data Science, NLP, Deep Learning, and AI systems.
 
-This repository started as a **16 Weeks – 16 ML Projects Challenge**, but it is continuously evolving as I build more advanced projects and explore new concepts.
+This repository started as a **16 Weeks – 16 ML Projects Challenge**, but it is continuously
+evolving as I build more advanced projects and explore new concepts.
 
 The goal of this repository is to:
 - Learn Machine Learning through practical implementation
