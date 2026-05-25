@@ -15,9 +15,11 @@ The goal of this repository is to:
 - Improve problem-solving and model-building skills
 - Document my learning journey publicly
 
+
 ---
 
 # 🧠 Projects Included
+
 
 | Week | Project | Topics / Concepts |
 |------|---------|------------------|
