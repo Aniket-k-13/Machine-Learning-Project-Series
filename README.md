@@ -1,85 +1,123 @@
-
-````markdown id="y7m2pk"
+````markdown id="jlwmn2"
 # 🚀 Machine Learning Project Series
 
-Welcome to my Machine Learning project repository — a continuously growing collection of projects built
-while learning and exploring Machine Learning, Data Science, NLP, Deep Learning, and AI systems.
+Welcome to my AI & Machine Learning Project Repository — a continuously growing collection of projects built while learning and exploring:
 
-This repository started as a **16 Weeks – 16 ML Projects Challenge**, but it is continuously
-evolving as I build more advanced projects and explore new concepts.
+- Machine Learning
+- Deep Learning
+- NLP
+- Computer Vision
+- ML Algorithms From Scratch
+- Real-world AI systems
 
-The goal of this repository is to:
-- Learn Machine Learning through practical implementation
-- Build consistency by creating real projects
-- Explore real-world datasets and problems
-- Improve problem-solving and model-building skills
+This repository originally started as a **16 Weeks – 16 ML Projects Challenge**, but later evolved into a much larger long-term learning and project-building journey.
+
+The main goal of this repository is to:
+- Learn AI/ML through practical implementation
+- Build projects consistently
+- Strengthen fundamentals by implementing algorithms from scratch
+- Work with real-world datasets
 - Document my learning journey publicly
-
 
 ---
 
-# 🧠 Projects Included
+# 📂 Repository Structure
 
+```bash
+Machine-Learning-Project-Series/
+│
+├── Machine-Learning-Projects/
+│   ├── ML-01-Rock-vs-Mine
+│   ├── ML-02-Diabetes-Prediction
+│   ├── ML-03-House-Price-Prediction
+│   ├── ML-04-Fake-News-Detection
+│   ├── ML-05-Loan-Status-Prediction
+│   ├── ML-06-Wine-Quality-Prediction
+│   ├── ML-07-Car-Price-Prediction
+│   ├── ML-08-Gold-Price-Prediction
+│   ├── ML-09-Heart-Disease-Prediction
+│   └── ML-10-Credit-Card-Fraud-Detection
+│
+├── From-Scratch-Implementations/
+│   ├── FS-01-Linear-Regression-From-Scratch
+│   └── FS-02-Logistic-Regression-From-Scratch
+│
+├── Deep-Learning-Projects/
+│   └── Upcoming Projects
+│
+└── README.md
+````
 
-| Week | Project | Topics / Concepts |
-|------|---------|------------------|
-| 1 | Rock vs Mine Prediction | Classification, SVM |
-| 2 | Diabetes Prediction | SVM, Data Preprocessing |
-| 3 | House Price Prediction | Regression |
-| 4 | Linear Regression From Scratch | Gradient Descent |
-| 5 | Logistic Regression From Scratch | Sigmoid Function, Classification |
-| 6 | Fake News Detection | NLP, TF-IDF, Stemming |
-| 7 | Loan Status Prediction | Classification, SVM |
-| 8 | Wine Quality Prediction | EDA, Classification |
-| 9 | Car Price Prediction | Regression, Feature Engineering |
-|10 | Gold price  Prediction | Random Forest Regression |
-|11 |Heart Disease Prediction | Regression |
+---
 
-> 🚀 More projects will be added continuously as part of my learning journey.
+# 🧠 Machine Learning Projects
+
+| No. | Project                     | Concepts                        |
+| --- | --------------------------- | ------------------------------- |
+| 01  | Rock vs Mine Prediction     | Classification, SVM             |
+| 02  | Diabetes Prediction         | SVM, Data Preprocessing         |
+| 03  | House Price Prediction      | Regression                      |
+| 04  | Fake News Detection         | NLP, TF-IDF, Stemming           |
+| 05  | Loan Status Prediction      | Classification                  |
+| 06  | Wine Quality Prediction     | EDA, Classification             |
+| 07  | Car Price Prediction        | Regression, Feature Engineering |
+| 08  | Gold Price Prediction       | Random Forest Regression        |
+| 09  | Heart Disease Prediction    | Classification                  |
+| 10  | Credit Card Fraud Detection | Imbalanced Data Handling        |
+
+---
+
+# ⚙️ ML Algorithms From Scratch
+
+| No. | Project                          | Concepts                         |
+| --- | -------------------------------- | -------------------------------- |
+| 01  | Linear Regression From Scratch   | Gradient Descent                 |
+| 02  | Logistic Regression From Scratch | Sigmoid Function, Classification |
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages & Libraries
-- Python
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- NLTK
+## Languages & Libraries
 
-### Concepts Covered
-- Data Preprocessing
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Regression
-- Classification
-- NLP
-- Model Evaluation
-- Gradient Descent
-- Machine Learning Pipelines
+* Python
+* NumPy
+* Pandas
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+* NLTK
+* Imbalanced-learn
+
 ---
 
-# 📂 Repository Structure
+# 📚 Concepts Covered
 
-``` id="jlwm5r"
-Machine-Learning-Project-Series/
-│
-├── Week-1-Rock-vs-Mine/
-├── Week-2-Diabetes-Prediction/
-├── Week-3-House-Price-Prediction/
-├── Week-4-Linear-Regression-From-Scratch/
-├── Week-5-Logistic-Regression-From-Scratch/
-├── Week-6-Fake-News-Detection/
-├── Week-7-Loan-Status-Prediction/
-├── Week-8-Wine-Quality-Prediction/
-├── Week-9-Car-Price-Prediction/
-├── week-10-Gold-Price-prediction/
-├── week-11-Heart-Disease-Prediction/
-└── More projects coming soon...
-````
+* Data Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Regression
+* Classification
+* NLP
+* Imbalanced Dataset Handling
+* Gradient Descent
+* Model Evaluation
+* Machine Learning Pipelines
+
+---
+
+# 🚀 Future Additions
+
+Planned future projects include:
+
+* Deep Learning Projects
+* CNNs & Computer Vision
+* NLP & Transformers
+* Recommendation Systems
+* Neural Networks From Scratch
+* MLOps & Deployment
+* Streamlit / FastAPI Applications
+* Real-world AI Systems
 
 ---
 
@@ -88,25 +126,10 @@ Machine-Learning-Project-Series/
 This repository focuses on:
 
 * Learning by building
-* Understanding ML algorithms practically
-* Working with real-world datasets
+* Understanding ML concepts practically
 * Improving implementation skills
 * Exploring advanced AI/ML concepts gradually
-
----
-
-# 🚀 Future Additions
-
-Planned future projects may include:
-
-* Random Forest & XGBoost
-* Neural Networks
-* CNNs
-* Computer Vision
-* Transformers & Advanced NLP
-* Recommendation Systems
-* Deployment with Streamlit/FastAPI
-* MLOps & Model Optimization
+* Building a strong AI/ML portfolio
 
 ---
 
@@ -119,4 +142,6 @@ Planned future projects may include:
 
 ---
 
-⭐ If you like this repository, consider giving it a star!
+⭐ If you find this repository useful, consider giving it a star!
+
+```
