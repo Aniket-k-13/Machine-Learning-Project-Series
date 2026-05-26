@@ -34,6 +34,7 @@ The goal of this repository is to:
 | 9 | Car Price Prediction | Regression, Feature Engineering |
 |10 | Gold price  Prediction | Random Forest Regression |
 |11 |Heart Disease Prediction | Regression |
+|10/24| Credit_Card_Fraud_Detection | LogisticRegression , Dataprocessing |
 
 > 🚀 More projects will be added continuously as part of my learning journey.
 
@@ -78,6 +79,7 @@ Machine-Learning-Project-Series/
 ├── Week-9-Car-Price-Prediction/
 ├── week-10-Gold-Price-prediction/
 ├── week-11-Heart-Disease-Prediction/
+├── week-11-Credit_Card_Fraud_Detection
 └── More projects coming soon...
 ````
 
