@@ -37,6 +37,7 @@ Machine-Learning-Project-Series/
 │   ├── ML-08-Gold-Price-Prediction
 │   ├── ML-09-Heart-Disease-Prediction
 │   └── ML-10-Credit-Card-Fraud-Detection
+│   └── ML-11-Medical-insurance-cost-prediction
 │
 ├── From-Scratch-Implementations/
 │   ├── FS-01-Linear-Regression-From-Scratch
