@@ -18,6 +18,8 @@ The project also demonstrates an important Machine Learning insight:
 
 ## 📊 Dataset Information
 
+Original Dataset: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
 - **Dataset:** Credit Card Fraud Detection Dataset
 - **Total Transactions:** 284,807
 - **Legitimate Transactions:** 284,315
