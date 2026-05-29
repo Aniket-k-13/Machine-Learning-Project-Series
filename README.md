@@ -49,7 +49,9 @@ Machine-Learning-Project-Series/
 └── README.md
 ````
 
+
 ---
+
 
 # 🧠 Machine Learning Projects
 
@@ -68,6 +70,7 @@ Machine-Learning-Project-Series/
 | 11  | Medical insurance cost prediction     | Data Encoding, regression, Data Analysis & Visulazation |
 ---
 
+
 # ⚙️ ML Algorithms From Scratch
 
 | No. | Project                          | Concepts                         |
@@ -76,6 +79,7 @@ Machine-Learning-Project-Series/
 | 02  | Logistic Regression From Scratch | Sigmoid Function, Classification |
 
 ---
+
 
 # 🛠 Tech Stack
 
