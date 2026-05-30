@@ -36,8 +36,10 @@ Machine-Learning-Project-Series/
 │   ├── ML-07-Car-Price-Prediction
 │   ├── ML-08-Gold-Price-Prediction
 │   ├── ML-09-Heart-Disease-Prediction
-│   └── ML-10-Credit-Card-Fraud-Detection
-│   └── ML-11-Medical-insurance-cost-prediction
+│   ├── ML-10-Credit-Card-Fraud-Detection
+│   ├── ML-11-Medical-insurance-cost-prediction
+│   └── ML-12-Big-Mart-Sales-Prediction
+│
 │
 ├── From-Scratch-Implementations/
 │   ├── FS-01-Linear-Regression-From-Scratch
@@ -68,6 +70,7 @@ Machine-Learning-Project-Series/
 | 09  | Heart Disease Prediction              | Classification                                          |
 | 10  | Credit Card Fraud Detection           | Imbalanced Data Handling                                |
 | 11  | Medical insurance cost prediction     | Data Encoding, regression, Data Analysis & Visulazation |
+| 12  | Big Mart Sales Prediction             | Data Encoding, XGBoostRegression , Data Analysis        |
 ---
 
 
