@@ -38,7 +38,8 @@ Machine-Learning-Project-Series/
 │   ├── ML-09-Heart-Disease-Prediction
 │   ├── ML-10-Credit-Card-Fraud-Detection
 │   ├── ML-11-Medical-insurance-cost-prediction
-│   └── ML-12-Big-Mart-Sales-Prediction
+│   ├── ML-12-Big-Mart-Sales-Prediction
+│   └── ML-13-Customer-Segmentation-using-K-Means-Clustering
 │
 │
 ├── From-Scratch-Implementations/
@@ -57,20 +58,23 @@ Machine-Learning-Project-Series/
 
 # 🧠 Machine Learning Projects
 
-| No. | Project                               | Concepts                                                |
-| --- | ------------------------------------- | ------------------------------------------------------- |
-| 01  | Rock vs Mine Prediction               | Classification, SVM                                     |
-| 02  | Diabetes Prediction                   | SVM, Data Preprocessing                                 |
-| 03  | House Price Prediction                | Regression                                              |
-| 04  | Fake News Detection                   | NLP, TF-IDF, Stemming                                   |
-| 05  | Loan Status Prediction                | Classification                                          |
-| 06  | Wine Quality Prediction               | EDA, Classification                                     |
-| 07  | Car Price Prediction                  | Regression, Feature Engineering                         |
-| 08  | Gold Price Prediction                 | Random Forest Regression                                |
-| 09  | Heart Disease Prediction              | Classification                                          |
-| 10  | Credit Card Fraud Detection           | Imbalanced Data Handling                                |
-| 11  | Medical insurance cost prediction     | Data Encoding, regression, Data Analysis & Visulazation |
-| 12  | Big Mart Sales Prediction             | Data Encoding, XGBoostRegression , Data Analysis        |
+| No. | Project                                          | Concepts                                                |
+| --- | -------------------------------------------------| ------------------------------------------------------- |
+| 01  | Rock vs Mine Prediction                          | Classification, SVM                                     |
+| 02  | Diabetes Prediction                              | SVM, Data Preprocessing                                 |
+| 03  | House Price Prediction                           | Regression                                              |
+| 04  | Fake News Detection                              | NLP, TF-IDF, Stemming                                   |
+| 05  | Loan Status Prediction                           | Classification                                          |
+| 06  | Wine Quality Prediction                          | EDA, Classification                                     |
+| 07  | Car Price Prediction                             | Regression, Feature Engineering                         |
+| 08  | Gold Price Prediction                            | Random Forest Regression                                |
+| 09  | Heart Disease Prediction                         | Classification                                          |
+| 10  | Credit Card Fraud Detection                      | Imbalanced Data Handling                                |
+| 11  | Medical insurance cost prediction                | Data Encoding, regression, Data Analysis & Visulazation |
+| 12  | Big Mart Sales Prediction                        | Data Encoding, XGBoostRegression , Data Analysis        |
+| 13  | Customer Segmentation using K-Means Clustering   |  K-Means Clustering , Data Analysis                     |
+
+
 ---
 
 
