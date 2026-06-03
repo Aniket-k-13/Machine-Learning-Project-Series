@@ -1,39 +1,38 @@
 # 🧠 Parkinson's Disease Detection using Machine Learning
 
-This project focuses on detecting Parkinson's Disease using Machine Learning techniques and biomedical voice measurements.
+This project focuses on detecting Parkinson's Disease using Machine Learning techniques and biomedical voice measurements. The goal is to classify whether a person is healthy or affected by Parkinson's Disease based on various voice-related features.
 
 ---
 
-## 📌 Project Overview
+# 📌 Project Overview
 
-Parkinson's Disease is a progressive neurological disorder that affects movement and speech. Early detection can help in timely treatment and disease management.
+Parkinson's Disease is a progressive neurological disorder that affects movement, speech, and coordination. Early detection can assist healthcare professionals in diagnosis and treatment planning.
 
-In this project, Machine Learning models were trained on biomedical voice measurement data to predict whether a person has Parkinson's Disease.
+In this project, two Machine Learning classification models were implemented and compared:
 
----
+* Support Vector Machine (SVM)
+* Logistic Regression
 
-## 📊 Dataset Information
-
-The dataset contains various voice-related biomedical features extracted from speech recordings.
-
-Features include:
-
-* Fundamental frequency measures
-* Jitter measurements
-* Shimmer measurements
-* Noise-to-Harmonic Ratios
-* Nonlinear dynamical complexity measures
-
-Target Variable:
-
-* Status
-
-  * 0 → Healthy Person
-  * 1 → Parkinson's Disease
+The models were trained using biomedical voice measurements and evaluated using accuracy scores and confusion matrices.
 
 ---
 
-## 🧠 Concepts Used
+# 📊 Dataset Information
+
+Dataset Source:
+
+https://www.kaggle.com/datasets/thecansin/parkinsons-data-set
+
+The dataset contains multiple biomedical voice measurements collected from healthy individuals and Parkinson's patients.
+
+### Target Variable
+
+* 0 → Healthy Person
+* 1 → Parkinson's Disease
+
+---
+
+# 🧠 Concepts Used
 
 * Data Preprocessing
 * Feature Scaling
@@ -41,70 +40,107 @@ Target Variable:
 * Support Vector Machine (SVM)
 * Logistic Regression
 * Model Evaluation
-* Train-Test Split
+* Confusion Matrix
 * Healthcare AI
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 * Python
 * NumPy
 * Pandas
 * Scikit-Learn
+* Matplotlib
+* Seaborn
 
 ---
 
-## 🔄 Workflow
+# 🔄 Workflow
 
-1. Load and explore dataset
-2. Check for missing values
-3. Perform feature extraction
-4. Standardize numerical features
-5. Split data into training and testing sets
-6. Train SVM model
-7. Train Logistic Regression model
-8. Compare model performance
-9. Predict disease status for new samples
-
----
-
-## 🤖 Models Used
-
-### Support Vector Machine (SVM)
-
-Used for classification of Parkinson's Disease based on biomedical voice features.
-
-### Logistic Regression
-
-Used as a baseline classification model for performance comparison.
+1. Load Dataset
+2. Data Exploration
+3. Feature Selection
+4. Feature Scaling using StandardScaler
+5. Train-Test Split
+6. Train SVM Model
+7. Train Logistic Regression Model
+8. Evaluate Performance
+9. Compare Results
 
 ---
 
-## 📈 Key Learnings
+# 🤖 Models Used
+
+## Support Vector Machine (SVM)
+
+Support Vector Machine was used as the primary classification model due to its effectiveness on structured datasets and high-dimensional feature spaces.
+
+### Results
+
+* Accuracy Score: 87.18%
+
+Confusion Matrix:
+
+| Actual / Predicted | Healthy | Parkinson's |
+| ------------------ | ------- | ----------- |
+| Healthy            | 5       | 3           |
+| Parkinson's        | 2       | 29          |
+
+---
+
+## Logistic Regression
+
+Logistic Regression was implemented as a baseline classification model for comparison.
+
+### Results
+
+* Accuracy Score: 82.05%
+
+Confusion Matrix:
+
+| Actual / Predicted | Healthy | Parkinson's |
+| ------------------ | ------- | ----------- |
+| Healthy            | 5       | 3           |
+| Parkinson's        | 4       | 27          |
+
+---
+
+# 📈 Model Comparison
+
+| Model                  | Accuracy |
+| ---------------------- | -------- |
+| Support Vector Machine | 87.18%   |
+| Logistic Regression    | 82.05%   |
+
+🏆 Best Performing Model: Support Vector Machine (SVM)
+
+---
+
+# 📌 Key Learnings
 
 Through this project, I learned:
 
-* Importance of feature scaling in ML models
-* Applications of Machine Learning in healthcare
-* Differences between SVM and Logistic Regression
-* Model evaluation and prediction workflows
-* Real-world disease prediction systems
+* Importance of feature scaling in Machine Learning
+* Healthcare applications of AI and Machine Learning
+* Performance comparison between classification algorithms
+* Interpretation of confusion matrices
+* Evaluating models beyond simple accuracy scores
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```bash
 ML-14-Parkinsons-Disease-Detection/
-├── Parkinsons_Disease_Detection.ipynb
 ├── parkinsons.csv
+├── Parkinsons_Disease_Detection.ipynb
 ├── README.md
 ```
 
 ---
 
-## 🚀 Future Improvements
+# 🚀 Future Improvements
 
 * Hyperparameter Tuning
 * Random Forest Classification
@@ -114,7 +150,7 @@ ML-14-Parkinsons-Disease-Detection/
 
 ---
 
-## 👨‍💻 Author
+# 👨‍💻 Author
 
 Aniket Khandare
 
