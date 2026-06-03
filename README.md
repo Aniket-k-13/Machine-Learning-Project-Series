@@ -39,7 +39,10 @@ Machine-Learning-Project-Series/
 │   ├── ML-10-Credit-Card-Fraud-Detection
 │   ├── ML-11-Medical-insurance-cost-prediction
 │   ├── ML-12-Big-Mart-Sales-Prediction
-│   └── ML-13-Customer-Segmentation-using-K-Means-Clustering
+│   ├── ML-13-Customer-Segmentation-using-K-Means-Clustering
+│   └── ML-14-Parkinson's-Disease-Detection
+│
+│
 │
 │
 ├── From-Scratch-Implementations/
@@ -72,8 +75,8 @@ Machine-Learning-Project-Series/
 | 10  | Credit Card Fraud Detection                      | Imbalanced Data Handling                                |
 | 11  | Medical insurance cost prediction                | Data Encoding, regression, Data Analysis & Visulazation |
 | 12  | Big Mart Sales Prediction                        | Data Encoding, XGBoostRegression , Data Analysis        |
-| 13  | Customer Segmentation using K-Means Clustering   |  K-Means Clustering , Data Analysis                     |
-
+| 13  | Customer Segmentation using K-Means Clustering   | K-Means Clustering , Data Analysis                      |
+| 14  | Parkinson's Disease Detection                    | Classification, SVM , Data Standardization
 
 ---
 
