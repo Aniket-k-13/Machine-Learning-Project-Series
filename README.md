@@ -78,6 +78,7 @@ Machine-Learning-Project-Series/
 | 13  | Customer Segmentation using K-Means Clustering   | K-Means Clustering , Data Analysis                      |
 | 14  | Parkinson's Disease Detection                    | Classification, SVM , Data Standardization
 
+
 ---
 
 
@@ -87,6 +88,7 @@ Machine-Learning-Project-Series/
 | --- | -------------------------------- | -------------------------------- |
 | 01  | Linear Regression From Scratch   | Gradient Descent                 |
 | 02  | Logistic Regression From Scratch | Sigmoid Function, Classification |
+
 
 ---
 
