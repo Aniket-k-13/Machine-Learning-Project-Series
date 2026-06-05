@@ -40,9 +40,8 @@ Machine-Learning-Project-Series/
 │   ├── ML-11-Medical-insurance-cost-prediction
 │   ├── ML-12-Big-Mart-Sales-Prediction
 │   ├── ML-13-Customer-Segmentation-using-K-Means-Clustering
-│   └── ML-14-Parkinson's-Disease-Detection
-│
-│
+│   ├── ML-14-Parkinsons-Disease-Detection
+│   └── ML-15-Titanic-Survival-Prediction
 │
 │
 ├── From-Scratch-Implementations/
@@ -76,7 +75,8 @@ Machine-Learning-Project-Series/
 | 11  | Medical insurance cost prediction                | Data Encoding, regression, Data Analysis & Visulazation |
 | 12  | Big Mart Sales Prediction                        | Data Encoding, XGBoostRegression , Data Analysis        |
 | 13  | Customer Segmentation using K-Means Clustering   | K-Means Clustering , Data Analysis                      |
-| 14  | Parkinson's Disease Detection                    | Classification, SVM , Data Standardization
+| 14  | Parkinson's Disease Detection                    | Classification, SVM , Data Standardization              |
+| 15  | Titanic Survival Prediction                      | EDA, Classification, Data Analysis & Visulazation       |
 
 
 ---
