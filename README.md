@@ -46,7 +46,9 @@ Machine-Learning-Project-Series/
 │
 ├── From-Scratch-Implementations/
 │   ├── FS-01-Linear-Regression-From-Scratch
-│   └── FS-02-Logistic-Regression-From-Scratch
+│   ├── FS-02-Logistic-Regression-From-Scratch
+│   └── FS-03-Support-Vector-Machine-Classifier-from-scratch
+│
 │
 ├── Deep-Learning-Projects/
 │   └── Upcoming Projects
@@ -83,14 +85,13 @@ Machine-Learning-Project-Series/
 
 # ⚙️ ML Algorithms From Scratch
 
-| No. | Project                          | Concepts                         |
-| --- | -------------------------------- | -------------------------------- |
-| 01  | Linear Regression From Scratch   | Gradient Descent                 |
-| 02  | Logistic Regression From Scratch | Sigmoid Function, Classification |
-
+| No. | Project                                          | Concepts                                 |
+| --- | ------------------------------------------------ | ---------------------------------------- |
+| 01  | Linear Regression From Scratch                   | Gradient Descent                         |
+| 02  | Logistic Regression From Scratch                 | Sigmoid Function, Classification         |
+| 03  | Support Vector Machine Classifier from scratch   | Hinge loss Function, Classification      |
 
 ---
-
 
 # 🛠 Tech Stack
 
