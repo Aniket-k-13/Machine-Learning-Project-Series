@@ -20,15 +20,10 @@ In this project, I implemented a Support Vector Machine Classifier from scratch 
 
 The model was trained and tested on the Diabetes Prediction dataset.
 
-![alt text](<WhatsApp Image 2026-06-07 at 3.17.43 PM.jpeg>)
----
-![alt text](<WhatsApp Image 2026-06-07 at 3.10.48 PM.jpeg>)
-
+![alt text](<WhatsApp Image 2026-06-07 at 3.17.57 PM.jpeg>) 
+![alt text](<WhatsApp Image 2026-06-07 at 3.10.48 PM.jpeg>) 
+![alt text](<WhatsApp Image 2026-06-07 at 3.17.43 PM.jpeg>) 
 ![alt text](<WhatsApp Image 2026-06-07 at 3.17.43 PM (1).jpeg>)
-
-![alt text](<WhatsApp Image 2026-06-07 at 3.17.57 PM.jpeg>)
-
-
 
 # 🧠 Concepts Used
 
