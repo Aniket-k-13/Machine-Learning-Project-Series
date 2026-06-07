@@ -54,7 +54,6 @@ Machine-Learning-Project-Series/
 └── README.md
 ````
 
-
 ---
 
 
