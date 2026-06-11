@@ -13,6 +13,7 @@ Welcome to my AI & Machine Learning Project Repository — a continuously growin
 
 This repository originally started as a **16 Weeks – 16 ML Projects Challenge**, but later evolved into a much larger long-term learning and project-building journey.
 
+
 The main goal of this repository is to:
 - Learn AI/ML through practical implementation
 - Build projects consistently
@@ -84,6 +85,7 @@ Machine-Learning-Project-Series/
 | 16  | Calories Burnt Prediction                        | EDA , XGBoostRegression , Data Analysis & Visulazation  |
 | 17  | Spam Mail Prediction                             | Lable Encoding, Feature Extraction, TfidfVectorizer     |
 ---
+
 
 
 # ⚙️ ML Algorithms From Scratch
