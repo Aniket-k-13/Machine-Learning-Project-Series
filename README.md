@@ -84,8 +84,8 @@ Machine-Learning-Project-Series/
 | 15  | Titanic Survival Prediction                      | EDA, Classification, Data Analysis & Visulazation       |
 | 16  | Calories Burnt Prediction                        | EDA , XGBoostRegression , Data Analysis & Visulazation  |
 | 17  | Spam Mail Prediction                             | Lable Encoding, Feature Extraction, TfidfVectorizer     |
----
 
+---
 
 
 # ⚙️ ML Algorithms From Scratch
