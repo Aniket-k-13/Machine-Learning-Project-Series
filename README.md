@@ -1,31 +1,58 @@
-````markdown id="jlwmn2"
-# 🚀 Machine Learning Project Series
+# 🚀 Machine Learning & Deep Learning Project Series
 
 Welcome to my AI & Machine Learning Project Repository — a continuously growing collection of projects built while learning and exploring:
 
+* Machine Learning
+* Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision
+* Machine Learning Algorithms From Scratch
+* Real-World AI Applications
 
-- Machine Learning
-- Deep Learning
-- NLP
-- Computer Vision
-- ML Algorithms From Scratch
-- Real-world AI systems
+This repository originally started as a **16 Weeks – 16 ML Projects Challenge** and later evolved into a larger long-term AI/ML learning journey.
 
-This repository originally started as a **16 Weeks – 16 ML Projects Challenge**, but later evolved into a much larger long-term learning and project-building journey.
+The primary goal of this repository is to:
 
+* Learn AI/ML through practical implementation
+* Build projects consistently
+* Strengthen fundamentals by implementing algorithms from scratch
+* Work with real-world datasets
+* Explore Deep Learning concepts
+* Document my learning journey publicly
 
-The main goal of this repository is to:
-- Learn AI/ML through practical implementation
-- Build projects consistently
-- Strengthen fundamentals by implementing algorithms from scratch
-- Work with real-world datasets
-- Document my learning journey publicly
+---
+
+# 📈 Progress Tracker
+
+### Machine Learning Projects
+
+✅ 17 / 24 Completed
+
+### Deep Learning Projects
+
+✅ 1 / 5 Completed
+
+### ML Algorithms From Scratch
+
+✅ 3 / 5 Completed
+
+---
+
+# 🏆 Highlights
+
+* 📄 Research Paper Published & Presented at ARET-2026
+* 🧠 24 ML Projects + 5 DL Projects + 5 From-Scratch Implementations Roadmap
+* 🏥 Healthcare AI Projects
+* 🤖 NLP & Recommendation System Projects
+* ⚙️ Algorithms Implemented From Scratch
+* 🚀 Publicly Documented Learning Journey
 
 ---
 
 # 📂 Repository Structure
 
 ```bash
+
 Machine-Learning-Project-Series/
 │
 ├── Machine-Learning-Projects/
@@ -39,77 +66,93 @@ Machine-Learning-Project-Series/
 │   ├── ML-08-Gold-Price-Prediction
 │   ├── ML-09-Heart-Disease-Prediction
 │   ├── ML-10-Credit-Card-Fraud-Detection
-│   ├── ML-11-Medical-insurance-cost-prediction
+│   ├── ML-11-Medical-Insurance-Cost-Prediction
 │   ├── ML-12-Big-Mart-Sales-Prediction
-│   ├── ML-13-Customer-Segmentation-using-K-Means-Clustering
+│   ├── ML-13-Customer-Segmentation-Using-KMeans
 │   ├── ML-14-Parkinsons-Disease-Detection
 │   ├── ML-15-Titanic-Survival-Prediction
 │   ├── ML-16-Calories-Burnt-Prediction
-│   └── ML-17-Spam-Mail-Prediction
+│   ├── ML-17-Spam-Mail-Prediction
+│   └── More Projects Coming Soon...
 │
+├── Deep-Learning-Projects/
+│   ├── DL-01-Breast-Cancer-Classification-with-Neural-Network
+│   ├── DL-02
+│   ├── DL-03
+│   ├── DL-04
+│   └── DL-05
 │
 ├── From-Scratch-Implementations/
 │   ├── FS-01-Linear-Regression-From-Scratch
 │   ├── FS-02-Logistic-Regression-From-Scratch
-│   └── FS-03-Support-Vector-Machine-Classifier-from-scratch
-│
-│
-├── Deep-Learning-Projects/
-│   └── Upcoming Projects
+│   ├── FS-03-Support-Vector-Machine-Classifier-From-Scratch
+│   ├── FS-04-Lasso-Regression-From-Scratch
+│   └── FS-05
 │
 └── README.md
-````
+```
 
 ---
-
 
 # 🧠 Machine Learning Projects
 
-| No. | Project                                          | Concepts                                                |
-| --- | -------------------------------------------------| ------------------------------------------------------- |
-| 01  | Rock vs Mine Prediction                          | Classification, SVM                                     |
-| 02  | Diabetes Prediction                              | SVM, Data Preprocessing                                 |
-| 03  | House Price Prediction                           | Regression                                              |
-| 04  | Fake News Detection                              | NLP, TF-IDF, Stemming                                   |
-| 05  | Loan Status Prediction                           | Classification                                          |
-| 06  | Wine Quality Prediction                          | EDA, Classification                                     |
-| 07  | Car Price Prediction                             | Regression, Feature Engineering                         |
-| 08  | Gold Price Prediction                            | Random Forest Regression                                |
-| 09  | Heart Disease Prediction                         | Classification                                          |
-| 10  | Credit Card Fraud Detection                      | Imbalanced Data Handling                                |
-| 11  | Medical insurance cost prediction                | Data Encoding, regression, Data Analysis & Visulazation |
-| 12  | Big Mart Sales Prediction                        | Data Encoding, XGBoostRegression , Data Analysis        |
-| 13  | Customer Segmentation using K-Means Clustering   | K-Means Clustering , Data Analysis                      |
-| 14  | Parkinson's Disease Detection                    | Classification, SVM , Data Standardization              |
-| 15  | Titanic Survival Prediction                      | EDA, Classification, Data Analysis & Visulazation       |
-| 16  | Calories Burnt Prediction                        | EDA , XGBoostRegression , Data Analysis & Visulazation  |
-| 17  | Spam Mail Prediction                             | Lable Encoding, Feature Extraction, TfidfVectorizer     |
+| No. | Project                                        | Concepts                         |
+| --- | ---------------------------------------------- | -------------------------------- |
+| 01  | Rock vs Mine Prediction                        | Classification, SVM              |
+| 02  | Diabetes Prediction                            | SVM, Data Preprocessing          |
+| 03  | House Price Prediction                         | Regression                       |
+| 04  | Fake News Detection                            | NLP, TF-IDF, Stemming            |
+| 05  | Loan Status Prediction                         | Classification                   |
+| 06  | Wine Quality Prediction                        | EDA, Classification              |
+| 07  | Car Price Prediction                           | Regression, Feature Engineering  |
+| 08  | Gold Price Prediction                          | Random Forest Regression         |
+| 09  | Heart Disease Prediction                       | Classification                   |
+| 10  | Credit Card Fraud Detection                    | Imbalanced Data Handling         |
+| 11  | Medical Insurance Cost Prediction              | Regression, Data Analysis        |
+| 12  | Big Mart Sales Prediction                      | XGBoost Regression               |
+| 13  | Customer Segmentation using K-Means Clustering | Clustering                       |
+| 14  | Parkinson's Disease Detection                  | Classification, SVM              |
+| 15  | Titanic Survival Prediction                    | EDA, Classification              |
+| 16  | Calories Burnt Prediction                      | XGBoost Regression               |
+| 17  | Spam Mail Prediction                           | NLP, TF-IDF, Logistic Regression |
 
 ---
 
+# 🧠 Deep Learning Projects
+
+| No. | Project                                            | Concepts                              |
+| --- | -------------------------------------------------- | ------------------------------------- |
+| 01  | Breast Cancer Classification using Neural Networks | ANN, TensorFlow, Keras, Deep Learning |
+
+---
 
 # ⚙️ ML Algorithms From Scratch
 
-| No. | Project                                          | Concepts                                 |
-| --- | ------------------------------------------------ | ---------------------------------------- |
-| 01  | Linear Regression From Scratch                   | Gradient Descent                         |
-| 02  | Logistic Regression From Scratch                 | Sigmoid Function, Classification         |
-| 03  | Support Vector Machine Classifier from scratch   | Hinge loss Function, Classification      |
+| No. | Project                                        | Concepts                         |
+| --- | ---------------------------------------------- | -------------------------------- |
+| 01  | Linear Regression From Scratch                 | Gradient Descent                 |
+| 02  | Logistic Regression From Scratch               | Sigmoid Function, Classification |
+| 03  | Support Vector Machine Classifier From Scratch | Hinge Loss, Classification       |
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages & Libraries
+### Languages
 
 * Python
+
+### Libraries & Frameworks
+
 * NumPy
 * Pandas
 * Scikit-Learn
+* TensorFlow
+* Keras
 * Matplotlib
 * Seaborn
 * NLTK
-* Imbalanced-learn
+* Imbalanced-Learn
 
 ---
 
@@ -120,10 +163,13 @@ Machine-Learning-Project-Series/
 * Feature Engineering
 * Regression
 * Classification
+* Clustering
 * NLP
+* Deep Learning
+* Artificial Neural Networks
+* Model Evaluation
 * Imbalanced Dataset Handling
 * Gradient Descent
-* Model Evaluation
 * Machine Learning Pipelines
 
 ---
@@ -132,14 +178,15 @@ Machine-Learning-Project-Series/
 
 Planned future projects include:
 
-* Deep Learning Projects
-* CNNs & Computer Vision
-* NLP & Transformers
+* Convolutional Neural Networks (CNNs)
+* Computer Vision
 * Recommendation Systems
+* Transformers
+* Generative AI
 * Neural Networks From Scratch
-* MLOps & Deployment
+* MLOps
 * Streamlit / FastAPI Applications
-* Real-world AI Systems
+* Real-World AI Systems
 
 ---
 
@@ -147,11 +194,11 @@ Planned future projects include:
 
 This repository focuses on:
 
-* Learning by building
-* Understanding ML concepts practically
-* Improving implementation skills
-* Exploring advanced AI/ML concepts gradually
-* Building a strong AI/ML portfolio
+* Learning by Building
+* Understanding ML Concepts Practically
+* Improving Implementation Skills
+* Exploring Advanced AI/ML Concepts
+* Building a Strong AI/ML Portfolio
 
 ---
 
@@ -159,8 +206,8 @@ This repository focuses on:
 
 ## 👨‍💻 Aniket Khandare
 
-* GitHub: [https://github.com/Aniket-k-13](https://github.com/Aniket-k-13)
-* LinkedIn: [https://linkedin.com/in/aniket-khandare-18b822329/](https://linkedin.com/in/aniket-khandare-18b822329/)
+* GitHub: https://github.com/Aniket-k-13
+* LinkedIn: https://linkedin.com/in/aniket-khandare-18b822329/
 
 ---
 
