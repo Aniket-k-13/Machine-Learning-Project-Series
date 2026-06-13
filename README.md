@@ -26,7 +26,7 @@ The primary goal of this repository is to:
 
 ### Machine Learning Projects
 
-✅ 17 / 24 Completed
+✅ 18 / 24 Completed
 
 ### Deep Learning Projects
 
@@ -34,7 +34,7 @@ The primary goal of this repository is to:
 
 ### ML Algorithms From Scratch
 
-✅ 3 / 5 Completed
+✅ 5 / 5 Completed
 
 ---
 
