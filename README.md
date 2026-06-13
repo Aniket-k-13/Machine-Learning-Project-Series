@@ -73,7 +73,10 @@ Machine-Learning-Project-Series/
 │   ├── ML-15-Titanic-Survival-Prediction
 │   ├── ML-16-Calories-Burnt-Prediction
 │   ├── ML-17-Spam-Mail-Prediction
+│   ├── ML-18-Movie-Recommendation-System
 │   └── More Projects Coming Soon...
+│
+│
 │
 ├── Deep-Learning-Projects/
 │   ├── DL-01-Breast-Cancer-Classification-with-Neural-Network
@@ -87,7 +90,7 @@ Machine-Learning-Project-Series/
 │   ├── FS-02-Logistic-Regression-From-Scratch
 │   ├── FS-03-Support-Vector-Machine-Classifier-From-Scratch
 │   ├── FS-04-Lasso-Regression-From-Scratch
-│   └── FS-05
+│   └── FS-05-K-Nearest-Neighbors-Classifier-from-Scratch
 │
 └── README.md
 ```
@@ -128,11 +131,13 @@ Machine-Learning-Project-Series/
 
 # ⚙️ ML Algorithms From Scratch
 
-| No. | Project                                        | Concepts                         |
-| --- | ---------------------------------------------- | -------------------------------- |
-| 01  | Linear Regression From Scratch                 | Gradient Descent                 |
-| 02  | Logistic Regression From Scratch               | Sigmoid Function, Classification |
-| 03  | Support Vector Machine Classifier From Scratch | Hinge Loss, Classification       |
+| No. | Project                                        | Concepts                                                           |
+| --- | ---------------------------------------------- | ------------------------------------------------------------------ |
+| 01  | Linear Regression From Scratch                 | Gradient Descent , Learning rate, weight, bias , Classification    |
+| 02  | Logistic Regression From Scratch               | Sigmoid Function, Classification ,Gradient Descent, classification |
+| 03  | Support Vector Machine Classifier From Scratch | Hinge Loss ,hyperplane ,Margin Maximization, Gradient Updates      |
+| 04  | Lasso Regression from Scratch                  | Hinge Loss, Classification, L1 Penalty Calculation ,Classification |
+| 05  | K-Nearest Neighbors Classifier from Scratch    | Euclidean vs Manhattan Distance , Classification ,Distance Metrics |
 
 ---
 
