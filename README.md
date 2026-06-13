@@ -118,6 +118,8 @@ Machine-Learning-Project-Series/
 | 15  | Titanic Survival Prediction                    | EDA, Classification              |
 | 16  | Calories Burnt Prediction                      | XGBoost Regression               |
 | 17  | Spam Mail Prediction                           | NLP, TF-IDF, Logistic Regression |
+| 18  | ML-18-Movie-Recommendation-System              | NLP, TF-IDF, Cosine similarity   |
+
 
 ---
 
