@@ -125,7 +125,7 @@ Machine-Learning-Project-Series/
 | 17  | Spam Mail Prediction                           | NLP, TF-IDF, Logistic Regression                                                      |
 | 18  | Movie Recommendation System                    | NLP, TF-IDF, Cosine similarity                                                        |
 | 19  | Breast Cancer Classification                   | Data Standardization, Logistic Regression                                             |
-| 20  | Rainfall Prediction                            | RandomForst ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis  "" |
+| 20  | Rainfall Prediction                            | RandomForst ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
 
 
 
