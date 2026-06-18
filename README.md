@@ -127,9 +127,8 @@ Machine-Learning-Project-Series/
 | 19  | Breast Cancer Classification                   | Data Standardization, Logistic Regression                                             |
 | 20  | Rainfall Prediction                            | RandomForst ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
 
-
-
 ---
+
 
 # 🧠 Deep Learning Projects
 
