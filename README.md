@@ -26,7 +26,7 @@ The primary goal of this repository is to:
 
 ### Machine Learning Projects
 
-✅ 18 / 24 Completed
+✅ 21 / 24 Completed
 
 ### Deep Learning Projects
 
