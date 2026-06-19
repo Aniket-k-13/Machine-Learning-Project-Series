@@ -104,28 +104,29 @@ Machine-Learning-Project-Series/
 ""
 # 🧠 Machine Learning Projects
              
-| No. | Project                                        | Concepts                                                                              |
-| --- | ---------------------------------------------- | ------------------------------------------------------------------------------------- |
-| 01  | Rock vs Mine Prediction                        | Classification, SVM                                                                   |
-| 02  | Diabetes Prediction                            | SVM, Data Preprocessing                                                               |
-| 03  | House Price Prediction                         | Regression                                                                            |
-| 04  | Fake News Detection                            | NLP, TF-IDF, Stemming                                                                 |
-| 05  | Loan Status Prediction                         | Classification                                                                        |
-| 06  | Wine Quality Prediction                        | EDA, Classification                                                                   |
-| 07  | Car Price Prediction                           | Regression, Feature Engineering                                                       |
-| 08  | Gold Price Prediction                          | Random Forest Regression                                                              |
-| 09  | Heart Disease Prediction                       | Classification                                                                        |
-| 10  | Credit Card Fraud Detection                    | Imbalanced Data Handling                                                              |
-| 11  | Medical Insurance Cost Prediction              | Regression, Data Analysis                                                             |
-| 12  | Big Mart Sales Prediction                      | XGBoost Regression                                                                    |
-| 13  | Customer Segmentation using K-Means Clustering | Clustering                                                                            |
-| 14  | Parkinson's Disease Detection                  | Classification, SVM                                                                   |
-| 15  | Titanic Survival Prediction                    | EDA, Classification                                                                   |
-| 16  | Calories Burnt Prediction                      | XGBoost Regression                                                                    |
-| 17  | Spam Mail Prediction                           | NLP, TF-IDF, Logistic Regression                                                      |
-| 18  | Movie Recommendation System                    | NLP, TF-IDF, Cosine similarity                                                        |
-| 19  | Breast Cancer Classification                   | Data Standardization, Logistic Regression                                             |
-| 20  | Rainfall Prediction                            | RandomForst ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
+| No. | Project                                        | Concepts                                                                                    |
+| --- | ---------------------------------------------- | ------------------------------------------------------------------------------------------- |
+| 01  | Rock vs Mine Prediction                        | Classification, SVM                                                                         |
+| 02  | Diabetes Prediction                            | SVM, Data Preprocessing                                                                     |
+| 03  | House Price Prediction                         | Regression                                                                                  |
+| 04  | Fake News Detection                            | NLP, TF-IDF, Stemming                                                                       |
+| 05  | Loan Status Prediction                         | Classification                                                                              |
+| 06  | Wine Quality Prediction                        | EDA, Classification                                                                         |
+| 07  | Car Price Prediction                           | Regression, Feature Engineering                                                             |
+| 08  | Gold Price Prediction                          | Random Forest Regression                                                                    |
+| 09  | Heart Disease Prediction                       | Classification                                                                              |
+| 10  | Credit Card Fraud Detection                    | Imbalanced Data Handling                                                                    |
+| 11  | Medical Insurance Cost Prediction              | Regression, Data Analysis                                                                   |
+| 12  | Big Mart Sales Prediction                      | XGBoost Regression                                                                          |
+| 13  | Customer Segmentation using K-Means Clustering | Clustering                                                                                  |
+| 14  | Parkinson's Disease Detection                  | Classification, SVM                                                                         |
+| 15  | Titanic Survival Prediction                    | EDA, Classification                                                                         |
+| 16  | Calories Burnt Prediction                      | XGBoost Regression                                                                          |
+| 17  | Spam Mail Prediction                           | NLP, TF-IDF, Logistic Regression                                                            |
+| 18  | Movie Recommendation System                    | NLP, TF-IDF, Cosine similarity                                                              |
+| 19  | Breast Cancer Classification                   | Data Standardization, Logistic Regression                                                   |
+| 20  | Rainfall Prediction                            | RandomForst ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis         |
+| 21  | Autism Prediction                              | tree based models ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
 
 ---
 
