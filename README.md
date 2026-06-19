@@ -76,7 +76,8 @@ Machine-Learning-Project-Series/
 │   ├── ML-17-Spam-Mail-Prediction
 │   ├── ML-18-Movie-Recommendation-System
 │   ├── ML-19-Breast-Cancer-Classification
-│   ├── ML-20-Rainfall_Prediction
+│   ├── ML-20-Rainfall-Prediction
+│   ├── ML-21-Autism-Prediction
 │   └── More Projects Coming Soon...
 │
 │

@@ -130,12 +130,14 @@ RandomizedSearchCV was used to optimize model performance.
 
 ## 📂 Project Structure
 
+```bash
+
 ML-21-Autism-Prediction/
 │
 ├── Project_21_24_Autism_Prediction_.ipynb
 ├── README.md
 
----
+```
 
 ## 👨‍💻 Author
 
