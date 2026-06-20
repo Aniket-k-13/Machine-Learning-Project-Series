@@ -30,7 +30,7 @@ The primary goal of this repository is to:
 
 ### Deep Learning Projects
 
-✅ 1 / 5 Completed
+✅ 2 / 5 Completed
 
 ### ML Algorithms From Scratch
 
@@ -84,7 +84,7 @@ Machine-Learning-Project-Series/
 │
 ├── Deep-Learning-Projects/
 │   ├── DL-01-Breast-Cancer-Classification-with-Neural-Network
-│   ├── DL-02
+│   ├── DL-02-MNIST-Digit-Classification-with-Neural-Network
 │   ├── DL-03
 │   ├── DL-04
 │   └── DL-05
@@ -137,6 +137,7 @@ Machine-Learning-Project-Series/
 | No. | Project                                            | Concepts                              |
 | --- | -------------------------------------------------- | ------------------------------------- |
 | 01  | Breast Cancer Classification using Neural Networks | ANN, TensorFlow, Keras, Deep Learning |
+| 02  | MNIST Digit Classification using Neural Networks   | RNN, TensorFlow, Keras, Deep Learning |
 
 ---
 
