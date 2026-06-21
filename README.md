@@ -27,7 +27,7 @@ The primary goal of this repository is to:
 
 ### Machine Learning Projects
 
-✅ 21 / 24 Completed
+✅ 22 / 24 Completed
 
 ### Deep Learning Projects
 
@@ -79,6 +79,7 @@ Machine-Learning-Project-Series/
 │   ├── ML-19-Breast-Cancer-Classification
 │   ├── ML-20-Rainfall-Prediction
 │   ├── ML-21-Autism-Prediction
+│   ├── ML-22-Customer-Churn-Prediction
 │   └── More Projects Coming Soon...
 │
 │
@@ -129,6 +130,7 @@ Machine-Learning-Project-Series/
 | 19  | Breast Cancer Classification                   | Data Standardization, Logistic Regression                                                   |
 | 20  | Rainfall Prediction                            | RandomForst ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis         |
 | 21  | Autism Prediction                              | tree based models ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
+| 22  | Customer Churn Prediction                      | tree based models ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
 
 ---
 
