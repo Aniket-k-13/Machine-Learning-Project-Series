@@ -87,7 +87,7 @@ Machine-Learning-Project-Series/
 ├── Deep-Learning-Projects/
 │   ├── DL-01-Breast-Cancer-Classification-with-Neural-Network
 │   ├── DL-02-MNIST-Digit-Classification-with-Neural-Network
-│   ├── DL-03
+│   ├── DL-03-Dog-vs-Cat-Classification-using-Transfer-Learning
 │   ├── DL-04
 │   └── DL-05
 │
@@ -137,10 +137,12 @@ Machine-Learning-Project-Series/
 
 # 🧠 Deep Learning Projects
 
-| No. | Project                                            | Concepts                              |
-| --- | -------------------------------------------------- | ------------------------------------- |
-| 01  | Breast Cancer Classification using Neural Networks | ANN, TensorFlow, Keras, Deep Learning |
-| 02  | MNIST Digit Classification using Neural Networks   | RNN, TensorFlow, Keras, Deep Learning |
+| No. | Project                                            | Concepts                                                         |
+| --- | -------------------------------------------------- | ---------------------------------------------------------------- |
+| 01  | Breast Cancer Classification using Neural Networks | ANN, TensorFlow, Keras, Deep Learning                            |
+| 02  | MNIST Digit Classification using Neural Networks   | RNN, TensorFlow, Keras, Deep Learning                            |
+| 02  | Dog vs Cat Classification using Transfer Learning  | TensorFlow, Keras, Deep Learning , Transfer Learning             |
+
 
 ---
 
