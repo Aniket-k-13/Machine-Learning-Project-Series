@@ -100,9 +100,8 @@ You can tune the returned fields in the UI to also show album, year, or a short 
 
 Add a screenshot to `assets/` and reference it here for a visual demo. Example markdown to include a screenshot once available:
 
-```markdown
-Machine-Learning-Projects/ML-23-Build-Music-Recommendation-App-using-Python/image copy 2.png
-```
+<img width="1919" height="964" alt="image" src="https://github.com/user-attachments/assets/ecf3e7f2-6063-4ca1-b284-960398c6de73" />
+
 
 ## Troubleshooting
 
