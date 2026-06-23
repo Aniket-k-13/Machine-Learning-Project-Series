@@ -56,8 +56,6 @@ streamlit run main.py
 	- `data/` — (optional) raw and processed datasets
 	- `assets/` — images or small static assets used by the UI
 
-Link to this README: [Machine-Learning-Projects/ML-23-Build-Music-Recommendation-App-using-Python/README.md](Machine-Learning-Projects/ML-23-Build-Music-Recommendation-App-using-Python/README.md)
-
 ## Data format
 
 The preprocessing script expects one or more CSV files containing track metadata. Minimal required columns:
@@ -103,7 +101,7 @@ You can tune the returned fields in the UI to also show album, year, or a short 
 Add a screenshot to `assets/` and reference it here for a visual demo. Example markdown to include a screenshot once available:
 
 ```markdown
-![App screenshot](assets/screenshot.png)
+Machine-Learning-Projects/ML-23-Build-Music-Recommendation-App-using-Python/image copy 2.png
 ```
 
 ## Troubleshooting
