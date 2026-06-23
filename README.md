@@ -27,7 +27,7 @@ The primary goal of this repository is to:
 
 ### Machine Learning Projects
 
-✅ 22 / 24 Completed
+✅ 23 / 24 Completed
 
 ### Deep Learning Projects
 
@@ -80,6 +80,7 @@ Machine-Learning-Project-Series/
 │   ├── ML-20-Rainfall-Prediction
 │   ├── ML-21-Autism-Prediction
 │   ├── ML-22-Customer-Churn-Prediction
+│   ├── ML-23-Build-Music-Recommendation-App-using-Python
 │   └── More Projects Coming Soon...
 │
 │
@@ -131,6 +132,7 @@ Machine-Learning-Project-Series/
 | 20  | Rainfall Prediction                            | RandomForst ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis         |
 | 21  | Autism Prediction                              | tree based models ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
 | 22  | Customer Churn Prediction                      | tree based models ,GridserchCV ,Hyperparameter Tuning, Cross Validation, Feature Analysis   |
+| 23  | Build Music Recommendation App using Python    | cosine similarity , TFidfVectrazier , recomentation system ,NLTK   |
 
 ---
 
