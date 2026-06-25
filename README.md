@@ -89,7 +89,7 @@ Machine-Learning-Project-Series/
 │   ├── DL-01-Breast-Cancer-Classification-with-Neural-Network
 │   ├── DL-02-MNIST-Digit-Classification-with-Neural-Network
 │   ├── DL-03-Dog-vs-Cat-Classification-using-Transfer-Learning
-│   ├── DL-04
+│   ├── DL-04-CIFAR-10-Object-Recognition-using-ResNet50
 │   └── DL-05
 │
 ├── From-Scratch-Implementations/
@@ -143,8 +143,8 @@ Machine-Learning-Project-Series/
 | --- | -------------------------------------------------- | ---------------------------------------------------------------- |
 | 01  | Breast Cancer Classification using Neural Networks | ANN, TensorFlow, Keras, Deep Learning                            |
 | 02  | MNIST Digit Classification using Neural Networks   | RNN, TensorFlow, Keras, Deep Learning                            |
-| 02  | Dog vs Cat Classification using Transfer Learning  | TensorFlow, Keras, Deep Learning , Transfer Learning             |
-
+| 03  | Dog vs Cat Classification using Transfer Learning  | TensorFlow, Keras, Deep Learning , Transfer Learning             |
+| 04  | CIFAR-10 Object Recognition using ResNet50         | TensorFlow, Keras, Deep Learning , Transfer Learning , ResNet50  |
 
 ---
 
