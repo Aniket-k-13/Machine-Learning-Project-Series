@@ -173,9 +173,12 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
-# Project-specific secrets and generated artifacts
-config.json
-*.pkl
-*.log
-*.png
-.venv/
+
+# logs file
+preprocess.log
+recommend.log
+
+# app files
+cosine_sim.pkl
+df_cleaned.pkl
+tfidf_matrix.pkl
