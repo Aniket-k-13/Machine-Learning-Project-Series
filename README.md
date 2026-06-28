@@ -81,8 +81,8 @@ Machine-Learning-Project-Series/
 │   ├── ML-21-Autism-Prediction
 │   ├── ML-22-Customer-Churn-Prediction
 │   ├── ML-23-Build-Music-Recommendation-App-using-Python
-│   ├── ML-24-Build-A-Movie-Recommendation-App_using-Python
-│   └── More Projects Coming Soon...
+│   └── ML-24-Build-A-Movie-Recommendation-App_using-Python
+│    
 │
 ├── Deep-Learning-Projects/
 │   ├── DL-01-Breast-Cancer-Classification-with-Neural-Network
