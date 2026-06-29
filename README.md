@@ -31,7 +31,7 @@ The primary goal of this repository is to:
 
 ### Deep Learning Projects
 
-✅ 4 / 5 Completed
+✅ 5 / 5 Completed
 
 ### ML Algorithms From Scratch
 
