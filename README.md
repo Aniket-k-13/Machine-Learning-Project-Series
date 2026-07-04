@@ -24,7 +24,6 @@ The primary goal of this repository is to:
 
 # 📈 Progress Tracker
 
-
 ### Machine Learning Projects
 
 ✅ 24 / 24 Completed
